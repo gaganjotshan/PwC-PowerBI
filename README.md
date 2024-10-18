@@ -14,8 +14,7 @@ Through meticulous data analysis and visualization, this project aims to support
 - Microsoft PowerBI
 - Microsoft PowerPoint *(design layout)*
   
-# Tasks
-
+# Problem Statement(s)
 This virtual experience program consists of 3 tasks:                    
 - **Task 1**: Create Call Centre Dashboard - visualizing customer and agent behavior.
 - **Task 2**: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
@@ -52,12 +51,12 @@ After the dataset was cleaned and transformed, it was ready to be modeled, but t
 # Dashboard Links
 
 ### [Task 1 : Call Center Trends Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNjN2VjODItNGQwNi00YTIxLTk2OGItNjBiZjVlY2U3NTk0IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
-
+The first dashboard provides a comprehensive view of call centre metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call centre operations.
 
 ### [Task 2 : Churn Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjY5YzMxZDgtMWUxNi00YTMxLTkwNDItYTFmNGVlMzdhOWMyIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
-
+This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
 
 ### [Task 3 : Diversity Inclusion Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzBjNTY0ZDktY2RhNS00YzFlLWI4MGEtNmQ4MWNlMDgyOTg1IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
-
+Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
 # [Certificate](PwC Switzerland_certificate.pdf)
