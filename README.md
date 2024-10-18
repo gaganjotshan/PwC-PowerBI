@@ -24,7 +24,7 @@ This virtual experience program consists of 3 tasks:
 
 # Data Sourcing
 
-The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available here: [Call Center Dataset]
+The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html).
 
 # Data Preparation
 
