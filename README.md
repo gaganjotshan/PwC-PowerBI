@@ -1,22 +1,13 @@
-# Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience
+# PwC Switzerland Data Analyst - PowerBI Job Simulation
 
-
-
-
-# </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="30" height="30"> PWC PowerBI Virtual Case Experience 
-
-<br>
 
 ## Introduction
 This repository displays the process and outcomes of the tasks completed during the [PwC Switzerland PowerBI Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI?ref=W5vwWAjutTpHbEraC) developed by Forage. The virtual internship is created to simulate work in the Digital Accelerator team at PwC Switzerland and leverages Power BI.
 
 
-<br>
-
 ## Scenario
 At PwC, we work with global organizations, upskilling our 276,000 employees. Our goal is to provide everyone with the opportunity to learn, work, and participate in the digital world. Our employees have the chance to become "Digital Accelerators" by rapidly deepening their skills in digital specialties such as data, automation, AI, and digital storytelling. They do this by learning self-service tools and coding languages and applying these skills across our business.
-Your manager, Giulia, will guide you through your upskilling journey in PowerBI. You'll become a data Jedi and Digital Accelerator. An important client (communication has already reached out to you for help visualizing their data.
-
+Your manager, Giulia, will guide you through your upskilling journey in PowerBI. You'll become a data Jedi and Digital Accelerator. 
 
 
 This virtual experience program consists of 3 tasks:                    
@@ -24,7 +15,6 @@ This virtual experience program consists of 3 tasks:
 - **Task 2**: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
 - **Task 3**: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
 
-<br>
 
 ## Technical Stack
 
@@ -129,11 +119,7 @@ After the dataset was cleaned and transformed, it was ready to be modeled, but t
 ![dashboard github](sample.png)
 
 
-Data visualization for the datasets was done in Microsoft Power BI Desktop and designed in PowerPoint, the dashboard includes:
-
-- One main dashboard
-- Six tooltip pages
-
+Data visualization for the datasets was done in Microsoft Power BI Desktop and designed in PowerPoint.
 
 ### Key Performance Indicators and Metrics:
 
@@ -229,14 +215,12 @@ The purpose of this dashboard is to serve as self-exploratory for managers, but 
 # Dashboar Links
 
 ### [Task 1 : Call Center Trends Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNjN2VjODItNGQwNi00YTIxLTk2OGItNjBiZjVlY2U3NTk0IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
-<iframe title="Call Center Trends" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWNjN2VjODItNGQwNi00YTIxLTk2OGItNjBiZjVlY2U3NTk0IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ### [Task 2 : Churn Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjY5YzMxZDgtMWUxNi00YTMxLTkwNDItYTFmNGVlMzdhOWMyIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
-<iframe title="churn analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjY5YzMxZDgtMWUxNi00YTMxLTkwNDItYTFmNGVlMzdhOWMyIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ### [Task 3 : Diversity Inclusion Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzBjNTY0ZDktY2RhNS00YzFlLWI4MGEtNmQ4MWNlMDgyOTg1IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
-<iframe title="Diversity Inclusion" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzBjNTY0ZDktY2RhNS00YzFlLWI4MGEtNmQ4MWNlMDgyOTg1IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 # [Certificate](PwC Switzerland_certificate.pdf)
