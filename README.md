@@ -7,7 +7,6 @@ This project is part of the PwC Switzerland Power BI in Data Analytics Virtual C
 Through meticulous data analysis and visualization, this project aims to support informed decision-making and highlight areas for improvement and innovation.
 
 
-
 ## Technical Stack
 
 **Visualization**:
@@ -59,4 +58,4 @@ This dashboard was developed in response to a request from the telecom's Retenti
 ### [Task 3 : Diversity Inclusion Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzBjNTY0ZDktY2RhNS00YzFlLWI4MGEtNmQ4MWNlMDgyOTg1IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
-# [Certificate](PwC Switzerland_certificate.pdf)
+# [Certificate](PwC-Switzerland_certificate.pdf)
